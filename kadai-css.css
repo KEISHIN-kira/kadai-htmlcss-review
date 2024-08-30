@@ -15,6 +15,7 @@ header{
 	background-color: #ccccff;
 }
 footer{
+	width: 1000px;
 	background-color: #ffccff;
 }
 #wrapper{
@@ -28,7 +29,4 @@ footer{
 }
 #menu{
 	width: 300px;
-}
-footer{
-	width: 1000px;
 }
